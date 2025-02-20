@@ -4,5 +4,3 @@
 - 📫 My E-Mail: sembeth@live.de
 
 ![Sembeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sembeth&hide=stars&show=prs_merged_percentage&show_icons=true&rank_icon=percentile)
-
-![Sembeth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sembeth&layout=compact)
